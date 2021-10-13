@@ -37,7 +37,7 @@ export default defineComponent({
 </template>
 ```
 
-- You can pass style tag inside the `:style="{}"` property and it will work out of the box.
+- You can pass any style tag such as margin, border, height, width etc inside the `:style="{}"` property and it will work out of the box.
 
 # Author
 
