@@ -10,8 +10,8 @@ export default /*#__PURE__*/(() => {
   const installable = component;
 
   // Attach install function executed by Vue.use()
-  installable.install = (app) => {
-    app.component('SimpleShimmer', installable);
+  installable.install = (Vue) => {
+    Vue.component('SimpleShimmer', installable);
   };
   return installable;
 })();

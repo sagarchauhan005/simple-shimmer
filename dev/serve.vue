@@ -1,13 +1,13 @@
 <script>
-import { defineComponent } from 'vue';
+import Vue from 'vue';
 import SimpleShimmer from '@/simple-shimmer.vue';
 
-export default defineComponent({
+export default {
   name: 'ServeDev',
   components: {
     SimpleShimmer
   }
-});
+};
 </script>
 
 <template>

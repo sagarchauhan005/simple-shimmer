@@ -1,9 +1,7 @@
 <script>
-import { defineComponent } from 'vue';
-
-export default /*#__PURE__*/defineComponent({
+export default{
   name: 'SimpleShimmer', // vue component name
-});
+};
 </script>
 
 <template>

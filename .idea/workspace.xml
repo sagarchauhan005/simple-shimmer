@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e36be4cc-18a2-4af1-a819-3bba7e9cc3ad" name="Changes" comment="" />
+    <list default="true" id="e36be4cc-18a2-4af1-a819-3bba7e9cc3ad" name="Changes" comment="updated Readme.md">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/rollup.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/serve.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/serve.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/serve.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/serve.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/entry.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple-shimmer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple-shimmer.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +22,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zRXn2kj3GWyonsHX9yQVjd4X9R" />
@@ -23,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projects/KartmaxMicroservices/km-app-multi-site-nuxt-app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -37,7 +53,16 @@
       <updated>1634112038648</updated>
       <workItem from="1634112040118" duration="4975000" />
       <workItem from="1634118401613" duration="127000" />
+      <workItem from="1634118555374" duration="4277000" />
     </task>
+    <task id="LOCAL-00001" summary="updated Readme.md">
+      <created>1634118709285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634118709285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,5 +79,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated Readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Readme.md" />
   </component>
 </project>
