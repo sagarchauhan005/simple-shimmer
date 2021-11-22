@@ -1,10 +1,25 @@
 {
   "name": "simple-shimmer",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.4",
+  "description": "A pure css simple shimmer like facebook.",
+  "homepage": "https://github.com/sagarchauhan005/simple-shimmer/blob/master/Readme.md",
   "main": "dist/simple-shimmer.ssr.js",
   "browser": "dist/simple-shimmer.esm.js",
   "module": "dist/simple-shimmer.esm.js",
+  "keywords": [
+    "react",
+    "vue",
+    "nuxt",
+    "js",
+    "javascript",
+    "shimmer",
+    "css",
+    "facebook",
+    "pure",
+    "css",
+    "simple",
+    "npm"
+  ],
   "unpkg": "dist/simple-shimmer.min.js",
   "files": [
     "dist/*",
@@ -41,6 +56,10 @@
   },
   "peerDependencies": {
     "vue": "^2.6.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagarchauhan005/simple-shimmer"
   },
   "engines": {
     "node": ">=12"

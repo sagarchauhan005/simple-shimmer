@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e36be4cc-18a2-4af1-a819-3bba7e9cc3ad" name="Changes" comment="updated Readme.md">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/rollup.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/serve.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/serve.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/serve.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/serve.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entry.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/entry.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple-shimmer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple-shimmer.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1zRXn2kj3GWyonsHX9yQVjd4X9R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projects/KartmaxMicroservices/km-app-multi-site-nuxt-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,6 +50,14 @@
       <workItem from="1634112040118" duration="4975000" />
       <workItem from="1634118401613" duration="127000" />
       <workItem from="1634118555374" duration="4277000" />
+      <workItem from="1634184981098" duration="799000" />
+      <workItem from="1634191976309" duration="1772000" />
+      <workItem from="1634206543544" duration="24000" />
+      <workItem from="1634924773687" duration="655000" />
+      <workItem from="1635934539687" duration="1055000" />
+      <workItem from="1635938087142" duration="942000" />
+      <workItem from="1636346218792" duration="11000" />
+      <workItem from="1637577078702" duration="983000" />
     </task>
     <task id="LOCAL-00001" summary="updated Readme.md">
       <created>1634118709285</created>
