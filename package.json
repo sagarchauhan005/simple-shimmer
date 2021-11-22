@@ -1,6 +1,6 @@
 {
   "name": "simple-shimmer",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A pure css simple shimmer like facebook.",
   "homepage": "https://github.com/sagarchauhan005/simple-shimmer/blob/master/Readme.md",
   "main": "dist/simple-shimmer.ssr.js",

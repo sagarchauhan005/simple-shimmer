@@ -12,14 +12,14 @@ A simple, pure css shimmer for your website. It acts as your pre-loader and is i
 
 # Installation
 
-Run `npm install @sagarchauhan005/simple-shimmer` into your app and then follow the steps.
+Run `npm i simple-shimmer` into your app and then follow the steps.
 
 # Usage
 
 ```
 <script>
 
-import SimpleShimmer from '@/simple-shimmer.vue';
+import SimpleShimmer from "simple-shimmer";
 
 export default defineComponent({
   components: {
